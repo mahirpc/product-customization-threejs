@@ -4,7 +4,8 @@ import ColorPicker from "./ColorPicker";
 import FilePicker from "./FilePicker";
 import Tab from "./Tab";
 
-export { CustomButton,
+export{
+        CustomButton,
         AiPicker,
         ColorPicker,
         FilePicker,
