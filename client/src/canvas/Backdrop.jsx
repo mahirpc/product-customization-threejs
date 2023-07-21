@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Backdrop = () => {
-  return (
-    <div>
-      Backdrop
-    </div>
-  )
-}
+  return <div>Backdrop</div>;
+};
 
-export default Backdrop
+export default Backdrop;
